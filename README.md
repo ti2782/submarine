@@ -1,5 +1,7 @@
 # submarine
 Anti Jannie Comm System
+## BUILDING
+`make && make install`
 ## USAGE
 `submarine -g KEY`
 
